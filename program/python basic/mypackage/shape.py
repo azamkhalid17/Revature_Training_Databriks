@@ -1,0 +1,9 @@
+import math
+def area_of_squqre(side):
+    return side*side
+def area_of_circle(radi):
+    return math.pi*radi**2
+def area_of_rectangle(len,brd):
+    return len*brd
+def cir_of_circle(radi):
+    return math.pi*radi**2
